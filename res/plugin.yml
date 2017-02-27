@@ -1,0 +1,5 @@
+name: MinecartShooter
+main: net.rio.MinecartShooter
+version: 0.1
+description: "Shoot explosive minecart"
+author: "R26"
